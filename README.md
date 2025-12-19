@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/2717e193-16a6-4886-b904-aa4f038a5d08"
+    width="300"
+  />
+  <br />
+</p>
+
 # FortiGate Admin Password Reset (Maintainer Account)
 If the admin password is lost and physical access to the FortiGate device is available, you can reset the password using the maintainer account. This process requires a console cable, the device’s serial number, and a terminal program. After rebooting the FortiGate, log in quickly using the username maintainer and the password bcpb + [Serial Number in UPPERCASE]. Once logged in, you can reset the admin password or perform a factory reset if needed. This method does not work on virtual FortiGate units (VMs).
 
